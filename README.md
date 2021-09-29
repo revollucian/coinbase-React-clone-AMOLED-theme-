@@ -2,7 +2,7 @@
 
 ![alt text](https://i.imgur.com/YitM4K3.png)
 
-`IMPORTANT`: This is a project made for study and self-development and not in any way, shape or form a claim to any intellectual property owned by Coinbase Global, Inc. or its employees. Also, if you ever do use this in one of your projects keep in mind some aspects are far from production ready, this is a basic visual clone of the "Portofolio" page of Coinbase.
+`IMPORTANT`: This is a project made for study and self-development and not in any way, shape or form a claim to any intellectual property owned by Coinbase Global, Inc. or its employees. Also, if you ever do use this in one of your projects keep in mind some aspects are far from production ready, this is a basic visual clone of the "Portofolio" page of Coinbase. This mini-project was built using mostly React.js and Chart.js for the graph in the picture.
 
 ## Getting Started with Create React App
 
