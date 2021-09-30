@@ -1,4 +1,4 @@
-# Coinbase portofolio page React remake/clone with AMOLED theme
+# Coinbase portofolio page React and Tailwind CSS remake/clone with AMOLED theme
 
 ![alt text](https://i.imgur.com/YitM4K3.png)
 
